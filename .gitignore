@@ -1,1 +1,3 @@
 *.pyc
+pywinexe.egg-info/
+dist/
